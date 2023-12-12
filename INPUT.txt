@@ -1,0 +1,43 @@
+Sample Input - Challenger:
+
+Name - "Trainer 1"
+
+Hometown - "George Mason"
+
+ID - "123" (For specific error - Enter string with length other than 3)
+
+Age - 20
+
+PokeBalance = 77.777
+
+Num Party - 5 (For specific error - Enter number greater than 6)
+
+Num Badges - 7 (For specific error - Enter number greater than 8)
+
+Pokedex Percentage - 67.876 (For specific error - Enter number greater than 100)
+
+Attempted Challenges - 5
+
+
+
+Sample Input - Gym Leader:
+
+Name - "Trainer 2"
+
+Hometown - "George Mason"
+
+ID - "123" 
+
+Age - 20
+
+PokeBalance = 77.777 
+
+Num Party - 5
+
+Gym - Preset to GMU
+
+Champion Battle - Yes
+
+Motto - Don't scream in Fenwick
+
+Ace Level - 100 (For specific error - Enter number greater than 100)

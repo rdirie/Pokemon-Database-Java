@@ -513,7 +513,7 @@ public static void createTrainer(Trainer[] LeagueDatabase){
                         removePosition = i;
                      }
                   }
-                  //Flight Removal + NumFlight Decrement
+                  //Trainer Removal + NumTrainer Decrement
                   if(properRemove){
                      LeagueDatabase[removePosition] = null;
                      for(int i = removePosition; i<Trainer.getNumTrainers(); i++){
